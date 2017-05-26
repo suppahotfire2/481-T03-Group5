@@ -1,6 +1,6 @@
 # CPSC 481 - Tutorial 3 - Group 5
 
-## Project Title
+## Animal Genealogy Mobile App
 
 * Title
 * Mesa Komarevich, Masih Sadat, Megan Theam
