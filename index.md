@@ -3,8 +3,8 @@
 ## Project Title
 
 * Title
-* Team Members (names, IDs)
-* Tutorial Number and TA
+* Mesa Komarevich, Masih Sadat, Megan Theam
+* Tutorial 3, Sydney Pratte
 
 ## Project Idea
 
